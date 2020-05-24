@@ -1,0 +1,9 @@
+{
+    "name": "com.google.protobuf",
+    "displayName": "Protobuf",
+    "version": "3.11.4",
+    "unity": "2018.3",
+    "description": "Protocol Buffers",
+    "license": "MIT",
+    "dependencies": {}
+}
